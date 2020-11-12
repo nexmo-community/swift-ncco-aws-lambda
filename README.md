@@ -2,7 +2,7 @@
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
-This is a Swift project that uses a Lambda function, made with the [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime), to return a [Nexmo Call Control Object (NCCO)](https://developer.nexmo.com/voice/voice-api/ncco-reference). This blog shows the project in use with an iOS application that makes a call to a phone number.
+This is a Swift project that uses a Lambda function, made with the [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime), to return a [Nexmo Call Control Object (NCCO)](https://developer.nexmo.com/voice/voice-api/ncco-reference). This [blog](https://www.nexmo.com/blog/2020/11/11/how-to-make-phone-calls-with-swiftui) shows the project in use with an iOS application that makes a call to a phone number.
 
 ## Welcome to Vonage
 
